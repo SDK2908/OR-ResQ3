@@ -504,7 +504,7 @@ Its purpose is to demonstrate **software-based operating-room scheduling, optimi
 
 * **Backend & Scheduling Engine** — Samyuktha
 * **ML & Prediction Service** — Shobika
-* **Frontend & UI** — Kutty
+* **Frontend & UI** — Rithika
 
 ---
 
